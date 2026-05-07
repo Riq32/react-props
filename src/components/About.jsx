@@ -1,4 +1,4 @@
-function About({ image = "https://cdn-icons-png.flaticon.com/256/1/1176.png", about }) {
+function About({ image = "https://via.placeholder.com/215", about }) {
   return (
     <aside>
       <img src={image} alt="blog logo" />
